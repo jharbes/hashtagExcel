@@ -3,6 +3,7 @@ CTRL + SETA (Exemplo: CTRL + -> ou CTRL + <-)
 quando existir uma sequencia de celulas preenchidas a selecao de célula sera deslocada para a ultima celula preenchida da sequencia , se já estivermos na ultima linha preenchida e apertarmos CTRL + SETA novamente iremos parar na última linha da tabela ou última coluna
 
 
+-------------------------------------------------------------------------------------------------------------------
 
 
 CTRL + SHIFT + SETA (Exemplo: CTRL + SHIFT + -> ou CTRL + SHIFT + <-)
@@ -10,3 +11,36 @@ CTRL + SHIFT + SETA (Exemplo: CTRL + SHIFT + -> ou CTRL + SHIFT + <-)
 quando existir uma sequencia de celulas preenchidas a iremos fazer a seleção de todas as células até o fim da sequencia. igualmente o exemplo acima de CTRL + SETA, caso façamos novamente o uso de CTRL + SHIFT + SETA após o fim da sequencia faremos então a seleção de toda a coluna restante ou toda a linha restante até o fim da tabela.
 
 se combinarmos o CTRL + SHIFT + SETA na horizontal e na vertical podemos utilizar para selecionar TODA a tabela.
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+CTRL + T
+
+(portugues) - seleciona toda a tabela existente (precisa estar com uma celula dela selecionada)
+
+(ingles) - seleciona toda a tabela existente e cria tabela, podendo colocar formatacao
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+CTRL + A
+
+(ingles) - seleciona toda a tabela existente (precisa estar com uma celula dela selecionada)
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+CTRL + HOME
+
+move para a célula A1 do excel
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+F5
+
+seleciona qual célula deseja se deslocar.
