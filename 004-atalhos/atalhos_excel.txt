@@ -45,3 +45,44 @@ move para a célula A1 do excel
 F5
 
 seleciona qual célula deseja se deslocar.
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+CTRL + ESPAÇO
+
+Seleciona toda a coluna onde a célula está selecionada, inclusive fora da tabela em questão caso haja. (similar a SHIFT + ESPAÇO porém para a COLUNA)
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+SHIFT + ESPAÇO
+
+Seleciona toda a LINHA onde a célula está selecionada, inclusive fora da tabela em questão caso haja. (similiar a CTRL + ESPAÇO porém para a LINHA)
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+CTRL + MAIS (CTRL mais a tecla MAIS) ou CTRL SHIFT + (CTRL SHIFT e mais a tecla MAIS, quando o MAIS depende do SHIFT) inverso de CTRL + menos
+
+Adiciona colunas À ESQUERDA, caso a coluna atual esteja TODA SELECIONADA
+OU
+Adiciona LINHAS ACIMA caso a linha esteja TODA SELECIONADA
+(caso contrário será aberto uma tela perguntando o que deseja adicionar)
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+CTRL + MENOS (CTRL mais a tecla MENOS)
+
+Exclui a coluna À ESQUERDA caso a coluna atual esteja TODA SELECIONADA
+OU
+Excluir LINHAS ACIMA caso a linha esteja TODA SELECIONADA
+(caso contrário será aberto uma tela perguntando o que deseja excluir) - inverso de CTRL + mais
+
+
+-------------------------------------------------------------------------------------------------------------------
