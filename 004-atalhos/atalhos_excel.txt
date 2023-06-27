@@ -94,3 +94,21 @@ Aciona e desaciona o filtro das colunas
 
 
 -------------------------------------------------------------------------------------------------------------------
+
+
+CTRL + PAGEUP e CTRL + PAGEDOWN
+
+Navega entre as abas(planilhas) do arquivo excel.
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+CTRL + ALT + T
+
+(português) Seleciona toda a tabela existente (onde a célula está selcionada) e cria a tabela, permitindo colocar formatação
+
+(inglês) Nada faz
+
+
+-------------------------------------------------------------------------------------------------------------------
