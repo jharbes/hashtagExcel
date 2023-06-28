@@ -138,3 +138,11 @@ Caso seja feita a cópia de uma tabela com CTRL + C na hora de colar será feita
 
 
 -------------------------------------------------------------------------------------------------------------------
+
+
+ALT + F1
+
+Cria um gráfico para a tabela selecionada (deve estar toda selecionada)
+
+
+-------------------------------------------------------------------------------------------------------------------
