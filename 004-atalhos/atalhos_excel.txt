@@ -120,3 +120,21 @@ Abre a janela para escolher a formatação das células selecionadas
 
 
 -------------------------------------------------------------------------------------------------------------------
+
+
+ALT + H + V + V (inglês) h=home
+ALT + C + V + V (português) c=casa(pagina inicial)
+
+Cola APENAS os valores (após ter sido feito o CTRL + C), funciona através da navegação de atalhos do ALT
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+ALT + H + V + T (inglês) h=home
+ALT + C + V + T (português) c=casa(página inicial
+
+Caso seja feita a cópia de uma tabela com CTRL + C na hora de colar será feita a colagem da tabela de forma TRANSPOSTA (linhas viram coluna e vice-versa), funciona através da navegação do ALT
+
+
+-------------------------------------------------------------------------------------------------------------------
