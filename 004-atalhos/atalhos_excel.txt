@@ -146,3 +146,19 @@ Cria um gráfico para a tabela selecionada (deve estar toda selecionada)
 
 
 -------------------------------------------------------------------------------------------------------------------
+
+
+CTRL + E
+
+Replica um padrão em uma coluna de acordo com alguma lógica pré estabelecida anteriormente. Por exemplo: Se você está preenchendo o sobrenome referente a algum nome em outra coluna ele fará para todo o resto da coluna automaticamente após usar a tecla de atalho
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+F2
+
+Permite editar a célula que está selecionada no momento, desfazendo a necessidade de dar duplo clique nela ou clicar na barra de formulas
+
+
+-------------------------------------------------------------------------------------------------------------------
