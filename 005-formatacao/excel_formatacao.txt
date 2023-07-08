@@ -1,0 +1,22 @@
+01-ajustarLinhasEColunas
+
+
+I- Expondo dados das colunas que estiverem muito estreitas e os dados não aparecerem direito:
+
+Selecione todas as colunas com o mouse clicando em todas as letras na parte superior da tabela e dar duplo clique entre uma linha e outra de qualquer coluna quando o cursor do mouse mudar de formato na parte superior do cabeçalho onde ficam as letras.
+
+Podemos fazer também para uma coluna apenas apenas dando duplo clique como mouse no intervalo entre a coluna e sua posterior na barra superior onde aparecem as letras do cabeçalho
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+II - Colocando todas as colunas com a mesma largura:
+
+
+Selecione as colunas desejadas em conjunto por meio do cabeçalho de letras na parte superior da tabela, depois clique com o botão direito do mouse e vá na opção 'Largura da coluna' ou Column width' e escolha o valor numérico para a largura da coluna (em número de caracteres)
+
+* Essa opção também pode ser feita de maneira análoga para aumentar a altura das linhas
+
+
+-------------------------------------------------------------------------------------------------------------------
