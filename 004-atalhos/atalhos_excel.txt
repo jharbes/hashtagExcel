@@ -162,3 +162,27 @@ Permite editar a célula que está selecionada no momento, desfazendo a necessid
 
 
 -------------------------------------------------------------------------------------------------------------------
+
+
+SHIFT + ESPAÇO
+
+Ao segurar SHIFT + ESPAÇO podemos clicar em uma linha e segurar (proximo da borda) e arrastá-la para que ela ocupe outra local da tabela a sua escolha.
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+CTRL + ;
+
+Preenche a célula em questão com a data atual (muito utilizado para indicar um momento em que a tabela foi atualizada)
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+CTRL + SHIFT + ;
+
+Preenche a célula em questão com a hora atual (muito utilizado para indicar um momento em que a tabela foi atualizada)
+
+
+-------------------------------------------------------------------------------------------------------------------
