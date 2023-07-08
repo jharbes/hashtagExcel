@@ -20,3 +20,23 @@ Selecione as colunas desejadas em conjunto por meio do cabeçalho de letras na p
 
 
 -------------------------------------------------------------------------------------------------------------------
+
+
+02-ocultarLinhasEColunas (funciona para planilhas inteiras)
+
+
+I- Ocultar colunas que não desejamos que fiquem expostas mas ainda queremos manter os dados:
+
+
+Selecionamos a coluna em questão na barra superior de letras, clicamos com o segundo botão do mouse e depois na opção Ocultar/Hide, pode ser feito em mais de uma coluna por vez.
+
+Observe que ainda é possível notar visualmente que existe a coluna ocultar por meio da sequencia de letras (a letra será pulada) e pela pequena linha entre as colunas mostrando que há uma coluna ali oculta.
+
+Para desocultar/reexibir a coluna selecionamos as colunas que estão entre as colunas ocultas da mesma maneira por meio do cabeçalho superior de letras, clicamos com o segundo botão do mouse e vamos na opção Reexibir/Unhide.
+
+Podemos também desocultar todas as colunas ocultas de uma vez só, para isso selecionaremos toda a planilha clicaremos com o segundo botão do mouse no cabeçalho superior e vamos na opção Reexibir/Unhide.
+
+* Podemos também ocultar e desocultar LINHAS e PLANILHAS de maneira análoga.
+
+
+-------------------------------------------------------------------------------------------------------------------
