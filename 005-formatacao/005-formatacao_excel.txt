@@ -40,3 +40,16 @@ Podemos também desocultar todas as colunas ocultas de uma vez só, para isso se
 
 
 -------------------------------------------------------------------------------------------------------------------
+
+
+03- agruparLinhasEColunas
+
+
+É uma forma de ocultar e desocultar as colunas em grupo facilitando seu manuseio
+
+Podemos agrupar colunas e/ou linhas selecionando as desejadas e utilizando a opção Agrupar/Group do menu Dados/Data ou a tecla de atalho SHIFT + ALT + ->
+
+Para desagrupar o processo é selecionar o agrupamento feito e clicar na opção Desagrupar/Ungroup do menu Dados/Data ou a tecla de atalho SHIFT + ALT + <-
+
+
+-------------------------------------------------------------------------------------------------------------------
