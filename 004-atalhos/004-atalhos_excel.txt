@@ -186,3 +186,11 @@ Preenche a célula em questão com a hora atual (muito utilizado para indicar um
 
 
 -------------------------------------------------------------------------------------------------------------------
+
+
+CTRL + H (ou CTRL + U em portugues)
+
+Tecla de atalho para substituir tudo em um grupo de dados
+
+
+-------------------------------------------------------------------------------------------------------------------
