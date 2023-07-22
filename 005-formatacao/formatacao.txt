@@ -53,3 +53,19 @@ Para desagrupar o processo é selecionar o agrupamento feito e clicar na opção
 
 
 -------------------------------------------------------------------------------------------------------------------
+
+
+04-excluirELimparCelulas
+
+Clicar na parte superior da tabela onde estão as letras que representam as colunas selecionando apenas as desejadas e apertar a tecla DELETE para deletar os valores preenchidos das células em questão (não a coluna em si), funciona analogamento com as LINHAS.
+
+Para EXCLUIR a COLUNA e seu CONTEUDO clicar na parte superior da tabela nas letras desejadas, clicar com o segundo botão do mouse e ir na opção 'Delete/Apagar' (o que é diferente do que apertar a tecla delete do teclado), funciona analogamente para as linhas.
+
+Podemos apagar a formatação das células ao selecionar elas (como por exemplo tirar formatação de moeda($) mantendo apenas a parte numérica) e ir em Menu Superior -> 'Home/Página Inicial' -> 'Clear' -> 'Clear Format' 
+
+Se formos na opção Menu Superior -> 'Home/Página Inicial' -> 'Clear' -> 'Clear Content' limpamos apenas o conteúdo, mantendo a formatação que já havia na célula
+
+Já na opção Menu Superior -> 'Home/Página Inicial' -> 'Clear' -> 'Clear All' limpamos tudo, tanto a formatação quanto os valores das células selecionadas
+
+
+-------------------------------------------------------------------------------------------------------------------
