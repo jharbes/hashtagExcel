@@ -69,3 +69,13 @@ Já na opção Menu Superior -> 'Home/Página Inicial' -> 'Clear' -> 'Clear All'
 
 
 -------------------------------------------------------------------------------------------------------------------
+
+
+06-alinhamentoEBordas
+
+Para incluir bordas fazemos a seleção das células desejadas e vamos até o Menu Superior -> Home/Página Inicial -> Ícone de Bordas na parte de Fonte e escolhemos o tipo de borda desejada.
+
+Para apagar as bordas em geral podemos selecionar todas as células envolvidas ir no mesmo Ícone de Bordas e escolher a opção 'Erase Borders/Apagar Bordas', após usar a 'borracha' para apagar as bordas basta apertar o 'ESC' para finalizar
+
+
+-------------------------------------------------------------------------------------------------------------------
