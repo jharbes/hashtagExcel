@@ -101,3 +101,15 @@ Maneira Automática - Selecionamos as células desejadas onde queremos que haja 
 
 
 -------------------------------------------------------------------------------------------------------------------
+
+
+09-comentariosEAnotacoes
+
+Podemos adicionar comentário e/ou anotações em uma célula do Excel, para isso vamos até ela e clicamos com o segundo botão do mouse e vamos na opção 'Nova Anotação/New Note' (assim quando passar o mouse por cima(hover) aparecerá a anotação)
+
+Comentários e anotações funcionam de maneira semelhante, porém nos comentários além de possui data e hora da criação alguém pode deixar uma resposta ao que se encontra escrito de maneira a compartilhar informações.
+
+Comentários podem ser deletados ou resolvidos e anotações podem ser apenas deletados
+
+
+-------------------------------------------------------------------------------------------------------------------
