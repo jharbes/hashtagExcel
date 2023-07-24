@@ -91,3 +91,13 @@ Na mesma opção (botão) onde mesclamos as células também podemos usar a opç
 
 
 -------------------------------------------------------------------------------------------------------------------
+
+
+08-quebraDeTexto
+
+Maneira Manual - Quando queremos que o valor de texto de alguma célula fique em mais de uma linha (geralmente para acompanhar o tamanho das outras células) podemos pular linha dentro da célula para conseguir esse efeito, para isso clicamos onde deve a linha deve ser pulada e apertamos as teclas ALT + ENTER
+
+Maneira Automática - Selecionamos as células desejadas onde queremos que haja quebra de texto, vamos no Menu Superior -> 'Página Inicial/Home' -> 'Quebrar Texto Automaticamente/Wrap Text'. Fazendo isso o texto dentro da célula irá acompanhar a largura da coluna quebrando as linhas caso seja necessário
+
+
+-------------------------------------------------------------------------------------------------------------------
