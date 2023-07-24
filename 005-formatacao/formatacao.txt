@@ -79,3 +79,15 @@ Para apagar as bordas em geral podemos selecionar todas as células envolvidas i
 
 
 -------------------------------------------------------------------------------------------------------------------
+
+
+07-mesclarECentralizar
+
+Para mesclar selecionamos as células desejadas e Vamos no Menu Superior -> Home/Página Inicial -> Merge & Center/Mesclar e Centralizar.
+
+Esse recurso não deve ser utilizado de forma indiscrimada, pois depois fica muito difícil de conseguir fazer seleção de colunas inteiras por meio do Menu de Letras Superior bem como problemas na hora de aplicar fórmulas, a dica é NUNCA utilizar mesclagem de células em base de informações.
+
+Na mesma opção (botão) onde mesclamos as células também podemos usar a opção 'Desfazer Mesclagem de Células/Unmerge Cells'
+
+
+-------------------------------------------------------------------------------------------------------------------
