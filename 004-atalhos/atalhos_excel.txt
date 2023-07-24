@@ -1,4 +1,4 @@
-CTRL + SETA (Exemplo: CTRL + -> ou CTRL + <-)
+02- CTRL + SETA (Exemplo: CTRL + -> ou CTRL + <-)
 
 quando existir uma sequencia de celulas preenchidas a selecao de célula sera deslocada para a ultima celula preenchida da sequencia , se já estivermos na ultima linha preenchida e apertarmos CTRL + SETA novamente iremos parar na última linha da tabela ou última coluna
 
@@ -6,7 +6,7 @@ quando existir uma sequencia de celulas preenchidas a selecao de célula sera de
 -------------------------------------------------------------------------------------------------------------------
 
 
-CTRL + SHIFT + SETA (Exemplo: CTRL + SHIFT + -> ou CTRL + SHIFT + <-)
+02- CTRL + SHIFT + SETA (Exemplo: CTRL + SHIFT + -> ou CTRL + SHIFT + <-)
 
 quando existir uma sequencia de celulas preenchidas a iremos fazer a seleção de todas as células até o fim da sequencia. igualmente o exemplo acima de CTRL + SETA, caso façamos novamente o uso de CTRL + SHIFT + SETA após o fim da sequencia faremos então a seleção de toda a coluna restante ou toda a linha restante até o fim da tabela.
 
@@ -16,7 +16,7 @@ se combinarmos o CTRL + SHIFT + SETA na horizontal e na vertical podemos utiliza
 -------------------------------------------------------------------------------------------------------------------
 
 
-CTRL + T
+03- CTRL + T
 
 (portugues) - seleciona toda a tabela existente (precisa estar com uma celula dela selecionada)
 
@@ -26,9 +26,117 @@ CTRL + T
 -------------------------------------------------------------------------------------------------------------------
 
 
-CTRL + A
+03- CTRL + A
 
 (ingles) - seleciona toda a tabela existente (precisa estar com uma celula dela selecionada)
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+04- CTRL + ESPAÇO
+
+Seleciona toda a coluna onde a célula está selecionada, inclusive fora da tabela em questão caso haja. (similar a SHIFT + ESPAÇO porém para a COLUNA)
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+04- SHIFT + ESPAÇO
+
+Seleciona toda a LINHA onde a célula está selecionada, inclusive fora da tabela em questão caso haja. (similiar a CTRL + ESPAÇO porém para a LINHA)
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+04- SHIFT + ESPAÇO
+
+Ao segurar SHIFT + ESPAÇO podemos clicar em uma linha e segurar (proximo da borda) e arrastá-la para que ela ocupe outra local da tabela a sua escolha.
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+05- CTRL + SHIFT + L
+
+Aciona e desaciona o filtro das colunas
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+06- CTRL + PAGEUP e CTRL + PAGEDOWN
+
+Navega entre as abas(planilhas) do arquivo excel.
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+06- CTRL + ALT + T
+
+(português) Seleciona toda a tabela existente (onde a célula está selcionada) e cria a tabela, permitindo colocar formatação
+
+(inglês) Nada faz
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+07- CTRL + 1 (só funciona com o 1 da parte superior do teclado)
+
+Abre a janela para escolher a formatação das células selecionadas
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+08- ALT + H + V + V (inglês) h=home
+08- ALT + C + V + V (português) c=casa(pagina inicial)
+
+Cola APENAS os valores (após ter sido feito o CTRL + C), funciona através da navegação de atalhos do ALT
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+08- ALT + H + V + T (inglês) h=home
+08- ALT + C + V + T (português) c=casa(página inicial
+
+Caso seja feita a cópia de uma tabela com CTRL + C na hora de colar será feita a colagem da tabela de forma TRANSPOSTA (linhas viram coluna e vice-versa), funciona através da navegação do ALT
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+10- CTRL + E
+
+Replica um padrão em uma coluna de acordo com alguma lógica pré estabelecida anteriormente. Por exemplo: Se você está preenchendo o sobrenome referente a algum nome em outra coluna ele fará para todo o resto da coluna automaticamente após usar a tecla de atalho
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+11- CTRL + ;
+
+Preenche a célula em questão com a data atual (muito utilizado para indicar um momento em que a tabela foi atualizada)
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+11- CTRL + SHIFT + ;
+
+Preenche a célula em questão com a hora atual (muito utilizado para indicar um momento em que a tabela foi atualizada)
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+CTRL + H (ou CTRL + U em portugues)
+
+Tecla de atalho para substituir tudo em um grupo de dados
 
 
 -------------------------------------------------------------------------------------------------------------------
@@ -45,22 +153,6 @@ move para a célula A1 do excel
 F5
 
 seleciona qual célula deseja se deslocar.
-
-
--------------------------------------------------------------------------------------------------------------------
-
-
-CTRL + ESPAÇO
-
-Seleciona toda a coluna onde a célula está selecionada, inclusive fora da tabela em questão caso haja. (similar a SHIFT + ESPAÇO porém para a COLUNA)
-
-
--------------------------------------------------------------------------------------------------------------------
-
-
-SHIFT + ESPAÇO
-
-Seleciona toda a LINHA onde a célula está selecionada, inclusive fora da tabela em questão caso haja. (similiar a CTRL + ESPAÇO porém para a LINHA)
 
 
 -------------------------------------------------------------------------------------------------------------------
@@ -88,58 +180,6 @@ Excluir LINHAS ACIMA caso a linha esteja TODA SELECIONADA
 -------------------------------------------------------------------------------------------------------------------
 
 
-CTRL + SHIFT + L
-
-Aciona e desaciona o filtro das colunas
-
-
--------------------------------------------------------------------------------------------------------------------
-
-
-CTRL + PAGEUP e CTRL + PAGEDOWN
-
-Navega entre as abas(planilhas) do arquivo excel.
-
-
--------------------------------------------------------------------------------------------------------------------
-
-
-CTRL + ALT + T
-
-(português) Seleciona toda a tabela existente (onde a célula está selcionada) e cria a tabela, permitindo colocar formatação
-
-(inglês) Nada faz
-
-
--------------------------------------------------------------------------------------------------------------------
-
-
-CTRL + 1 (só funciona com o 1 da parte superior do teclado)
-
-Abre a janela para escolher a formatação das células selecionadas
-
-
--------------------------------------------------------------------------------------------------------------------
-
-
-ALT + H + V + V (inglês) h=home
-ALT + C + V + V (português) c=casa(pagina inicial)
-
-Cola APENAS os valores (após ter sido feito o CTRL + C), funciona através da navegação de atalhos do ALT
-
-
--------------------------------------------------------------------------------------------------------------------
-
-
-ALT + H + V + T (inglês) h=home
-ALT + C + V + T (português) c=casa(página inicial
-
-Caso seja feita a cópia de uma tabela com CTRL + C na hora de colar será feita a colagem da tabela de forma TRANSPOSTA (linhas viram coluna e vice-versa), funciona através da navegação do ALT
-
-
--------------------------------------------------------------------------------------------------------------------
-
-
 ALT + F1
 
 Cria um gráfico para a tabela selecionada (deve estar toda selecionada)
@@ -148,49 +188,9 @@ Cria um gráfico para a tabela selecionada (deve estar toda selecionada)
 -------------------------------------------------------------------------------------------------------------------
 
 
-CTRL + E
-
-Replica um padrão em uma coluna de acordo com alguma lógica pré estabelecida anteriormente. Por exemplo: Se você está preenchendo o sobrenome referente a algum nome em outra coluna ele fará para todo o resto da coluna automaticamente após usar a tecla de atalho
-
-
--------------------------------------------------------------------------------------------------------------------
-
-
 F2
 
 Permite editar a célula que está selecionada no momento, desfazendo a necessidade de dar duplo clique nela ou clicar na barra de formulas
-
-
--------------------------------------------------------------------------------------------------------------------
-
-
-SHIFT + ESPAÇO
-
-Ao segurar SHIFT + ESPAÇO podemos clicar em uma linha e segurar (proximo da borda) e arrastá-la para que ela ocupe outra local da tabela a sua escolha.
-
-
--------------------------------------------------------------------------------------------------------------------
-
-
-CTRL + ;
-
-Preenche a célula em questão com a data atual (muito utilizado para indicar um momento em que a tabela foi atualizada)
-
-
--------------------------------------------------------------------------------------------------------------------
-
-
-CTRL + SHIFT + ;
-
-Preenche a célula em questão com a hora atual (muito utilizado para indicar um momento em que a tabela foi atualizada)
-
-
--------------------------------------------------------------------------------------------------------------------
-
-
-CTRL + H (ou CTRL + U em portugues)
-
-Tecla de atalho para substituir tudo em um grupo de dados
 
 
 -------------------------------------------------------------------------------------------------------------------
