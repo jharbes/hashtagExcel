@@ -155,3 +155,15 @@ Ao selecionar as células desejadas e apertar a tecla de atalho CTRL + 1 (apenas
 
 
 -------------------------------------------------------------------------------------------------------------------
+
+
+12-pincelDeFormatacao
+
+A função do pincel de formatação é copiar a formatação presente em uma célula para outras células
+
+Para isso clicamos na célula de onde queremos copiar a formatação e depois vamos no Menu Superior -> 'Página Inicial/Home' -> 'Format Painter/Pincel de Formatação' e depois clicamos na célula desejada onde devemos colar a formatação
+
+Para utilizar em múltiplas células fazemos o mesmo procedimento porém mantemos o CTRL apertado enquanto ainda quisermos colar a formatação
+
+
+-------------------------------------------------------------------------------------------------------------------
