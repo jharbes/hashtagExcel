@@ -113,3 +113,45 @@ Comentários podem ser deletados ou resolvidos e anotações podem ser apenas de
 
 
 -------------------------------------------------------------------------------------------------------------------
+
+10-formatacaoDeNumeros
+
+Ao selecionar as células desejadas e apertar a tecla de atalho CTRL + 1 (apenas o 1 da parte superior do teclado) teremos acesso à janela de formatação de células (também podemos acessar selecionando as células desejadas e clicar com o segundo botão do mouse e ir na opção 'Format Cells/Formatar Células'
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+11-formatacaoPersonalizada-exemplo-cpf-cep-telefone
+
+Ao selecionar as células desejadas e apertar a tecla de atalho CTRL + 1 (apenas o 1 da parte superior do teclado) teremos acesso à janela de formatação de células (também podemos acessar selecionando as células desejadas e clicar com o segundo botão do mouse e ir na opção 'Format Cells/Formatar Células' e vamos em 'Personalizado/Custom'
+
+**IMPORTANTE: Após formatada a célula estará 'formatada' o que significa que mesmo alterando o valor contido nela ela propagará essa nova formatação para o novo valor recebido
+
+	Exemplo:
+
+	Digitar em 'Type' no lugar de 'Geral':
+	00000"-"0000   (onde os zeros representam algarismos de números)
+
+	Para formatar 9 números em nosso formato de telefone habitual (observe que no campo 'Sample' aparecerá previamente o resultado obtido)
+
+	Exemplo CPF:
+
+	10231086741	=>	102.310.867-41
+
+	Preencher: 000"."000"."000"-"00
+
+	Exemplo DDD:
+
+	21	=>	021
+
+	Preencher: 000
+
+	Exemplo CEP:
+
+	21231100	=>	21231-100
+
+	Preencher: 00000"-"000
+
+
+-------------------------------------------------------------------------------------------------------------------
