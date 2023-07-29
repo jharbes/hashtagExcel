@@ -167,3 +167,19 @@ Para utilizar em múltiplas células fazemos o mesmo procedimento porém mantemo
 
 
 -------------------------------------------------------------------------------------------------------------------
+
+
+13-colagemEspecial
+
+A colagem padrão (CTRL + C -> CTRL + V) do Excel não é uma colagem simples pois ela além do conteúdo das células também copia todos os padrões de formatação, fórmulas e componentes da célula de origem.
+
+Caso seja do interesse copiar e colar APENAS os valores de preenchimento das células (sem sua formatação, etc) faremos o CTRL + C normal nas células de origem dos valores e no Menu Superior -> 'Home/Página Inicial' -> Opções de 'Colar/Paste' -> Opção 'Values/Valores'
+
+Nessa mesma opção no menu teremos acesso a diversos tipos diferentes de colagem conforme sejam necessárias:
+	
+	Exemplo: Colar transposto (alterar linhas x colunas), Colar apenas a formatação, colar as fórmulas, etc
+
+Temos também nessa opção às colagens especiais (ultima opção) que dão acesso à colagens diferenciadas inclusive com operações matemáticas como colar somando, subtraindo, multiplicando ou dividindo
+
+
+-------------------------------------------------------------------------------------------------------------------
