@@ -183,3 +183,21 @@ Temos também nessa opção às colagens especiais (ultima opção) que dão ace
 
 
 -------------------------------------------------------------------------------------------------------------------
+
+
+14-congelarPaineis
+
+A opção de congelar paineis fica no Menu Superior -> 'Exibir/View' -> 'Congelar Painéis/Freeze Panes'
+
+Essa opção mudará a forma de disponibilizar a tabela para facilitar algumas visualizações
+
+Exemplo:
+
+	- Opção 'Freeze Top Row/Congelar Linha Superior': Mantém a primeira linha (geralmente o título da coluna) sempre visível, assim facilita o preenchimento da planilha caso estejamos em linhas cuja rolagem haveriam de ocultar a linha onde estão os cabeçalhos
+
+	-Opção 'Freeze First Column/Congelar Primeira Coluna': Funciona de maneira análoga à opção superior, porém para a primeira coluna da tabela, essa opção geralmente facilita a identificação do item ao qual pertence as informações do restante da linha mesmo que haja rolagem horizontal, pois a primeira coluna normalmente trata-se de um dos identificadores do item da linha.
+
+	- Opções personalizadas: Podemos também congelar de maneira personalizada, para isso escolhemos o número de linhas superior e colunas a esquerda que precisamos congelar, vamos até a célula onde fica o limite de intersecção entre essas colunas e linhas desejadas e a selecionamos, depois disso vamos no Menu Superior -> 'View/Exibir' -> 'Congelar Painéis/Freeze Panes' -> 'Congelar Painéis/Freeze Panes'
+
+
+-------------------------------------------------------------------------------------------------------------------
