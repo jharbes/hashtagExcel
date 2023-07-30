@@ -213,3 +213,11 @@ Na guia 'Design da Tabela/Table Design' também podemos renomear a tabela na op�
 
 
 -------------------------------------------------------------------------------------------------------------------
+
+
+16-tabelas-segmentacaoDeDados
+
+Podemos inserir segmentação de dados para uma tabela, para isso, após efetuar a criação da tabela conforme foi explicado no item anterior, selecionamos uma célula da tabela desejada, vamos no Menu Superior -> 'Design da Tabela/Table Design' -> 'Inserir Segmentação de Dados/Insert Slicer', então escolhemos qual coluna desejamos segmentar, com isso criaremos um painel onde poderemos filtrar os dados de modo prático
+
+
+-------------------------------------------------------------------------------------------------------------------
