@@ -201,3 +201,15 @@ Exemplo:
 
 
 -------------------------------------------------------------------------------------------------------------------
+
+
+15-tabelas-design-nomeDaTabela
+
+Para criar uma tabela com base em dados preenchidos no excel clicamos em uma das células pertencentes ao conjunto de dados que queremos transformar em tabela e vamos no Menu Superior -> 'Inserir/Insert' -> 'Tabela/Table' ou usamos a tecla de atalho CTRL + T após selecionar a célula pertencente ao conjunto de dados correspondente
+
+Embora pareça que a tabela recebeu apenas uma nova formatação isso não é verdade, ao criar a tabela diversas novas propriedades são adquiridas pela nova tabela, como por exemplo a possibilidade de expandir ela por meio dos controles de expansão que ficam nas quinas das tabelas, também podemos alterar as formatações da tabela por meio da guia 'Table Design/Design da Tabela' no Menu Superior, essa guia somente estará disponível quando selecionarmos um elemento da tabela em questão
+
+Na guia 'Design da Tabela/Table Design' também podemos renomear a tabela na opção 'Nome da Tabela/Table Name', essa opção é importante na utilização de fórmulas do Excel
+
+
+-------------------------------------------------------------------------------------------------------------------
