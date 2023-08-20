@@ -255,3 +255,13 @@ Validação de Dados:
 
 
 -------------------------------------------------------------------------------------------------------------------
+
+
+19-formatacaoCondicional-regrasDeRealce
+
+A formatação condicional é uma formatação que ocorre no caso de uma condição ser atendida, como por exemplo caso o percentual esteja acima de 70% pintar o fundo de azul, caso contrário pintar o fundo de vermelho.
+
+Para utilização selecionamos as células onde essa formatação deve ser adicionada depois no Menu Superior -> 'Home/Página Inicial' -> 'Conditional Formatting/Formatação Condicional', nessa opção teremos diversas maneiras de como aplicar a formatação condicional desejada
+
+
+-------------------------------------------------------------------------------------------------------------------
