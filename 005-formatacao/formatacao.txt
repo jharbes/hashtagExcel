@@ -265,3 +265,15 @@ Para utilização selecionamos as células onde essa formatação deve ser adici
 
 
 -------------------------------------------------------------------------------------------------------------------
+
+
+20-formatacaoCondicional-primeirosUltimos
+
+Podemos apagar as formatações condicionais selecionando as células desejadas e indo em Menu Superior -> 'Home/Página Inicial' -> 'Conditional Formatting/Formatação Condicional' -> 'Clear Rules/Apagar Regras'
+
+Podemos gerenciar as formatações condicionais selecionando as células desejadas e indo em Menu Superior -> 'Home/Página Inicial' -> 'Conditional Formatting/Formatação Condicional' -> 'Manage Rules/Gerenciar Regras'
+
+Para utilizar a regra de Primeiros/Últimos vamos em Menu Superior -> 'Home/Página Inicial' -> 'Conditional Formatting/Formatação Condicional' -> 'Top/Bottom Rules/Regras dos Primeiros/Últimos'
+
+
+-------------------------------------------------------------------------------------------------------------------
