@@ -238,3 +238,20 @@ Podemos renomear a tabela ao clicar em uma célula dela ir no Menu Superior -> '
 
 
 -------------------------------------------------------------------------------------------------------------------
+
+
+18-tabelas-usoEmValidacaoDeDados
+
+Para fazer com que uma tabela deixe de ser uma tabela clicamos em uma das suas celulas, vamos em 'Table Design/Design da Tabela' e na opção 'Convert to Range/Converter em Intervalo' (Obs: Algumas formatações serão mantidas)
+
+Validação de Dados:
+	Trata-se de um tratamento para que sejam enumerados valores, onde algumas células previamente selecionadas só poderão assumir um desses valores enumerados (semelhante ao enum em programação)
+
+	Para isso selecionamos as células onde seu preenchimento apenas poderão ser feitos por esses valores enumerados e então vamos no Menu Superior -> 'Data/Dados' -> 'Data Validation/Validação de Dados' -> 'Validation Criteria' -> 'Allow' -> 'List' e então selecionaremos a lista de células onde estão os valores permitidos.
+
+	A mesma opção também pode ser utilizada para que a célula possa ser preenchida com um determinado TIPO de dado como número inteiro, decimal, data, texto, etc.
+
+	*IMPORTANTE: Se os valores enumerados forem parte de uma TABELA, ao adicionar novas linhas nessa tabela teremos o aumento dos valores enumerados correspondente às opções disponíveis para escolha entre os itens enumerados. Ou seja, cada vez que uma linha for adicionada esse novo valor estará disponível como valor para enumeração nas células onde serão utilizados os valores.
+
+
+-------------------------------------------------------------------------------------------------------------------
