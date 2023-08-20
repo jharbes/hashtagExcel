@@ -221,3 +221,20 @@ Podemos inserir segmentação de dados para uma tabela, para isso, após efetuar
 
 
 -------------------------------------------------------------------------------------------------------------------
+
+
+17-tabelas-usoEmFormulas
+
+Para efetuar um somatorio de colunas utilizamos a formula SOMA/SUM, para facilitar sua manipulação criamos a formula na célula desejada com =SUM( depois clicamos na primeira célula desejada e com CTRL + SHIFT + SETA PARA BAIXO selecionamos todos os valores da coluna efetuando a soma da coluna.
+
+	Exemplo: =SUM(F2:F297)
+
+Ao preenchermos uma nova linha (MACETE: para preencher uma coluna com dados que já existem na coluna podemos utilizar ALT + SETA PARA BAIXO) esse novo valor não estará contemplado na soma feita anteriormente.
+
+Caso seja desejável que novas linhas já sejam integradas à formula da soma devemos transformar a base de dados em uma tabela, para isso selecionamos uma célula da tabela desejada e vamos em Menu Superior -> 'Insert' -> 'Table' ou na tecla de atalho CTRL + T, após isso, repetindo o procedimento da soma da coluna conforme feito anteriormente veremos que a fórmula da soma será diferente: =SUM(Table1[ValorTotal]) o que significa que ele irá considerar novas linhas caso elas sejam acrescentadas à tabela.
+
+Podemos renomear a tabela ao clicar em uma célula dela ir no Menu Superior -> 'Table Design/Design da Tabela' -> 'Table Name/Nome da Tabela' e colocar seu novo nome, observe que a fórmula anterior irá ser alterada: 
+=SUM(Vendas[ValorTotal]) onde 'Vendas' é o nome da tabela e 'ValorTotal' o nome da coluna.
+
+
+-------------------------------------------------------------------------------------------------------------------
