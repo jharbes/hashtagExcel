@@ -277,3 +277,19 @@ Para utilizar a regra de Primeiros/Últimos vamos em Menu Superior -> 'Home/Pág
 
 
 -------------------------------------------------------------------------------------------------------------------
+
+
+21-formatacaoCondicional-barrasEscalas
+
+Para utilizar a regra de Barras e Escalas vamos em Menu Superior -> 'Home/Página Inicial' -> 'Conditional Formatting/Formatação Condicional' -> 'Data Bars/Barra de Dados'
+
+Ele irá preencher a barra de acordo com os valores presentes na célula, sendo que a BARRA CHEIA será o maior valor dentre aqueles selecionados.
+
+Na opção Menu Superior -> 'Home/Página Inicial' -> 'Conditional Formatting/Formatação Condicional' -> 'Data Bars/Barra de Dados' -> 'Manage Rules/Gerenciar Regras' teremos opções adicionais e personalizadas para configurar as barras de dados
+
+Na opção Menu Superior -> 'Home/Página Inicial' -> 'Conditional Formatting/Formatação Condicional' -> 'Color Scales/Escalas de Cores' podemos utilizar escalas de cores que nada mais é do que colorir as células de acordo com uma configuração pré determinada de cores 
+	
+	Exemplo: Mais verde para os maiores valores reduzindo o verde até chegar no vermelho fraco e vermelho forte para os piores valores
+
+
+-------------------------------------------------------------------------------------------------------------------
