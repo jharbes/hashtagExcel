@@ -303,3 +303,19 @@ Nesse caso, de acordo com os valores da coluna ícones serão apresentados mostr
 
 
 -------------------------------------------------------------------------------------------------------------------
+
+
+23-formatacaoCondicional-linhaInteira
+
+Até agora vimos a formataçao condicional aplicada apenas a UMA ÚNICA coluna, caso seja desejado que ela seja aplicada à linha inteira (a regra valerá apenas para uma coluna, porém toda a linha sofrerá a alteração de formatação) prosseguiremos da seguinte forma:
+
+Selecionaremos toda a tabela -> Menu Superior -> 'Home/Página Inicial' -> 'Formatação Condicional/Conditional Formatting' -> 'Nova Regra/New Rule' -> 'Selecione um tipo de Regra/Select a Rule Type' -> 'Usar uma fórmula para determinar quais células devem ser formatadas/Use a formula to determine which cells to format'
+
+Depois disso iremos na opção 'Formatar.../Format...' para escolher qual tipo de formatação será feita
+
+Na barra de Formulas preencheremos da seguinte maneira como exemplo:
+	=$B2="Belo Horizonte"
+		onde B2 é a primeira célula da coluna que usaremos como filtro e "Belo Horizonte" o filtro que desejamos que ganhe a nova formatacao
+
+
+-------------------------------------------------------------------------------------------------------------------
