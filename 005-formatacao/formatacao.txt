@@ -319,3 +319,16 @@ Na barra de Formulas preencheremos da seguinte maneira como exemplo:
 
 
 -------------------------------------------------------------------------------------------------------------------
+
+
+24-formatacaoCondicional-comFormulas
+
+Para isso devemos criar uma fórmula em relação a coluna desejada que retorne TRUE ou FALSE, por exemplo:
+	=C2<TODAY(), onde C2 é a primeira célula de uma coluna de datas, logo caso essa data seja mais antiga que a data de hoje o retorno será TRUE
+
+Após feito isso vamos em Menu Superior -> 'Home/Página Inicial' -> 'Formatação Condicional/Conditional Formatting' -> 'Nova Regra/New Rule' -> 'Selecione um tipo de Regra/Select a Rule Type' -> 'Usar uma fórmula para determinar quais células devem ser formatadas/Use a formula to determine which cells to format'
+
+Preencheremos a fórmula no campo 'Formatar valores em que esta fórmula é verdadeira/Format values where this formula is true' depois iremos em 'Formatar.../Format...' e escolheremos o tipo de formatação desejada, lembrando que se tivermos selecionado apenas a coluna essa nova formatação se aplicará apenas a coluna, caso seja desejado toda a linha devemos selecionar toda a tabela antes de iniciar a formatação
+
+
+-------------------------------------------------------------------------------------------------------------------
