@@ -293,3 +293,13 @@ Na opção Menu Superior -> 'Home/Página Inicial' -> 'Conditional Formatting/Fo
 
 
 -------------------------------------------------------------------------------------------------------------------
+
+
+22-formatacaoCondicional-icones
+
+Para utilizar a formatacao condicional de icones primeiramente selecionamos os valores da coluna desejada, depois vamos em Menu Superior -> 'Home/Página Inicial' -> 'Conditional Formatting/Formatação Condicional' -> 'Icons Sets/Conjunto de Ícones'
+
+Nesse caso, de acordo com os valores da coluna ícones serão apresentados mostrando se aquele valor é RELATIVAMENTE alto, médio ou baixo de acordo com uma regra default, para alterar essa regra vamos em Menu Superior -> 'Home/Página Inicial' -> 'Conditional Formatting/Formatação Condicional' -> 'Manage Rules/Gerenciar Regras'
+
+
+-------------------------------------------------------------------------------------------------------------------
