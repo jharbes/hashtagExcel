@@ -1,8 +1,34 @@
 Funções Básicas em Excel
 
+Encontram-se no Menu Superior -> Formulas/Fórmulas
+
+-------------------------------------------------------------------------------------------------------------------
+
 
 01-criandoSequenciasNumericas
 
+Podemos gerar uma sequência ao criar um primeiro elemento em uma célula, depois disso ao clicarmos nele vamos ao 'pequeno quadrado' que fica no canto inferior a direita da célula e 'arrastamos' para baixo, isso irá gerar uma sequência (caso haja alguma lógica em sequência para o valor), caso contrário ele irá apenas preencher todas as células com o valor replicado da primeira célula
+
+Ex: Preenchemos jan/2020 na primeira célula e ao efetuarmos a operação acima ele irá completando as células abaixo com fev/2020, mar/2020, abr/2020...
+
+Ex: Caso seja necessário uma sequência numérica podemos criar o seu início, 1, 2, 3 e ao selecionarmos as células preenchidas e arrastarmos o 'quadrado no canto direito inferior' da célula ele dará sequência com 4, 5, 6... isso vale para diversos tipos de lógica como número dobrados, triplo, etc
+
+Ex: Também podemos utilizar o mesmo mecanismo para replicar uma lógica da primeira célula, por exemplo colocando uma fórmula (Ex: RANDBETWEEN(1;10) na primeira célula e todas as outras irão ter seu valor igualado a primeira gerando numeros aleatórios entre 1 e 10 também)
+
+Ex: Caso seja necessário 'complementar uma tabela' como gerar um faturamento para os meses de jan/2020 a dez/2020 podemos criar o faturamento com randbetween apenas no mes de janeiro, depois damos duplo clique no 'quadrado no canto direito inferior' e ele irá replicar para as células abaixo até completar os meses que se encontram na coluna a esquerda
+
+
+
+FUNÇÃO ALEATÓRIOENTRE/RANDBETWEEN
+
+Gera um número aleatório entre o primeiro valor inserido e o último:
+
+Exemplo:	=ALEATÓRIOENTRE(1000;50000)	->	24237
+		=RANDBETWEEN(1;5)		->	2
+
+Podemos atualizar o valor gerado randomicamente clicando sobre qualquer célula e apertando a tecla F9 (irá atualizar toda a tabela)
+
+** MACETE: Após gerar os números aleatórios podemos mantê-los fixos copiando todos com CTRL + C e depois utilizando o COLAR COMO VALORES, assim as células deixarão de ter as fórmulas e passarão a ter apenas os valores encontrados
 
 
 -------------------------------------------------------------------------------------------------------------------
