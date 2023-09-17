@@ -32,3 +32,21 @@ Podemos atualizar o valor gerado randomicamente clicando sobre qualquer célula 
 
 
 -------------------------------------------------------------------------------------------------------------------
+
+
+03-operadoresDeMultiplicacaoDivisao
+
+Tecla de atalho para criar nova coluna à esquerda, seleciona toda a coluna ao desejada e aperta CTRL + 'tecla mais' ou CTRL + SHIFT + 'tecla mais'
+
+utilizamos o asteristico (*) para efetuar a multiplicacao
+
+utilizamos a barra (/) para efetuar a divisao
+
+**TRANCAMENTO: utilizamos o trancamento quando desejamos que a lógica das funções não seja propagada para a célula, 'trancamos' a célula, por exemplo:
+	Quando fazemos uma fórmula onde o primeiro elemento deve multiplicar seu elemento de cima e queremos propagar para que todos os proximos da coluna multipliquem pelo mesmo elemento  e não o seu elemento de cima
+
+SINTAXE: 
+	Queremos que multiplique sempre por C1 e não o elemento de 'cima' para isso colocamos como $C$1 ou selecionamos o elemento C1 e apertamos a tecla F4
+
+
+-------------------------------------------------------------------------------------------------------------------
