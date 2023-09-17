@@ -54,6 +54,8 @@ SINTAXE:
 
 04-funcaoSoma
 
+Soma os elementos selecionados
+
 Sua Sintaxe é
 	=SOMA() ou =SUM() em ingles
 
@@ -68,6 +70,8 @@ Sua Sintaxe é
 
 
 05-funcaoMult
+
+Multiplica os elementos selecionados
 
 Sua Sintaxe é
 	=MULT() ou =PRODUCT() em ingles
