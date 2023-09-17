@@ -50,3 +50,18 @@ SINTAXE:
 
 
 -------------------------------------------------------------------------------------------------------------------
+
+
+04-funcaoSoma
+
+Sua Sintaxe é
+	=SOMA() ou = SUM() em ingles
+
+	=SOMA(A1;A2;C5;D8)		soma as células informadas	
+	=SOMA(A1:A10)			soma o range de células informadas
+	=SOMA(Tabela1[PREÇO])		soma o total da coluna PREÇO da Tabela1
+	=SOMA(Planilha1!$H$2:$H$9862)	soma o total do range de células trancadas entre H2 e H9862 da Planilha1
+	=SOMA(H2:H4;H8:H10;H4:H16)	mescla o range de células com células pontuais informadas
+
+
+-------------------------------------------------------------------------------------------------------------------
